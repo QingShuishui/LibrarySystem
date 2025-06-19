@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c6725511-6f33-4950-bdd5-90c72c6d3616" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AugmentWebviewStateStore.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/library-manage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/addbook.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/booklist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/borrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chart1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/chart2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lendreturn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/login.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/manager.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/readerctg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/readerupdate.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/return.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/constant/AutoFillConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/constant/JwtClaimsConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/constant/MessageConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/constant/StatusConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/context/BaseContext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/enumeration/OperationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/exception/BaseException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/exception/BorrowMaxException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/exception/BorrowTooLongException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/exception/ManagerNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/exception/PasswordErrorException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/json/JacksonObjectMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/properties/JwtProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/result/PageResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/result/Result.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/common/src/main/java/fun/cyhgraph/utils/JwtUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/BookCatePageDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/BookCategoryDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/BookDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/BookPageDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/LendReturnDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/LendReturnPageDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/ManagerDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/ManagerLoginDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/ReaderCatePageDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/ReaderCategoryDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/ReaderDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/dto/ReaderPageDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/entity/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/entity/BookCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/entity/LendReturn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/entity/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/entity/Reader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/entity/ReaderCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/entity/TopInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/vo/BookCategoryVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/vo/LendReturnReportVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/vo/ManagerLoginVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/vo/ReaderCategoryVo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pojo/src/main/java/fun/cyhgraph/vo/TopVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/ServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/annotation/AutoFill.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/aspect/AutoFillAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/config/WebMvcConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/controller/BookCategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/controller/BookController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/controller/BorrowController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/controller/ChartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/controller/ManagerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/controller/ReaderCategoryController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/controller/ReaderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/handler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/interceptor/JwtTokenInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/mapper/BookCategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/mapper/BookMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/mapper/BorrowMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/mapper/ChartMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/mapper/ManagerMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/mapper/ReaderCategoryMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/mapper/ReaderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/BookCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/BookService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/BorrowService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/ChartService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/ManagerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/ReaderCategoryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/ReaderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/serviceImpl/BookCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/serviceImpl/BookServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/serviceImpl/BorrowServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/serviceImpl/ChartServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/serviceImpl/ManagerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/serviceImpl/ReaderCategoryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/java/fun/cyhgraph/service/serviceImpl/ReaderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/resources/mapper/BookCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/resources/mapper/BookMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/resources/mapper/BorrowMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/resources/mapper/ReaderCategoryMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/main/resources/mapper/ReaderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-behind/server/src/test/java/fun/cyhgraph/server/ServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/.prettierrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/api/book.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/api/bookCategory.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/api/data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/api/lendReturn.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/api/manager.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/api/reader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/api/readerCategory.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/assets/library.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/router/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/store/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/types/manager.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/utils/request.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/book/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/book/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/bookCategory/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/bookCategory/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/home/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/layout/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/lendReturn/add.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/lendReturn/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/lendReturn/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/login/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/manager/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/reader/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/reader/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/readerCategory/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/readerCategory/update.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/reg/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/src/views/test/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/tsconfig.node.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library-front/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library.sql" beforeDir="false" afterPath="$PROJECT_DIR$/library.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "QingShuishui"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Henryers/library-manage.git",
+    "accountId": "d844f6bb-c20f-40ed-a5cb-47419134f58e"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2yjR3wYR5FX2Dm1jjf7aipE9fTR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ServerApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/2025projects/mcServer2025/library-manage",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fun.cyhgraph.ServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26094.121" />
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-IU-251.26094.121" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c6725511-6f33-4950-bdd5-90c72c6d3616" name="更改" comment="" />
+      <created>1750345800480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750345800480</updated>
+      <workItem from="1750345801548" duration="739000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
